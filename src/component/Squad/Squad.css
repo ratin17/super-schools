@@ -1,0 +1,17 @@
+.squad-design{
+    
+    display:grid;
+    grid-template-columns: 5fr 4fr;
+    border-bottom: 3px solid burlywood;
+    border-radius: 10%;
+    padding:5px;
+}
+
+.squad-design img{
+    height: 80px;
+    width:100%;
+}
+.squad-design h5{
+    margin-left: 2px;
+    margin-right: 2px;
+}

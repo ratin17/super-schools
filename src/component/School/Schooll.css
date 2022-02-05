@@ -1,0 +1,21 @@
+.school-design{
+    border:3px solid;
+    border-radius: 05%;
+    margin: 10%;
+    padding: 5px;
+    background-color:antiquewhite;
+   
+}
+
+
+
+.school-design img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.btn-add{
+    background-color:goldenrod;
+    border-radius: 10%;
+}

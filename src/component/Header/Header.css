@@ -1,0 +1,13 @@
+.bbb{
+    background-color:black;
+    color:aliceblue;
+    padding: 10px;
+}
+.nav-menu{
+    padding: 10px;
+    background-color: bisque;
+}
+.nav-menu nav a{
+    padding: 10px;
+    text-decoration: none;
+}
